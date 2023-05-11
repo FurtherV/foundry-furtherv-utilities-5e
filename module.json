@@ -1,0 +1,45 @@
+{
+    "id": "furtherv-utilities-5e",
+    "title": "FurtherV's Utilities DnD5e",
+    "description": "A collection of various world scripts I created as a bundled module.",
+    "version": "0.1",
+    "library": "false",
+    "manifestPlusVersion": "1.2.0",
+    "compatibility": {
+        "minimum": 10,
+        "verified": 10
+    },
+    "authors": [
+        {
+            "name": "FurtherV",
+            "url": "https://github.com/FurtherV",
+            "discord": "FurtherV#5068"
+        }
+    ],
+    "relationships": {
+        "systems": [
+            {
+                "id": "dnd5e",
+                "type": "system",
+                "compatibility": {
+                    "minimum": "2.0.0"
+                }
+            }
+        ],
+        "requires": []
+    },
+    "esmodules": ["setup.mjs"],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "languages/en.json"
+        }
+    ],
+    "url": "replaced by workflow",
+    "manifest": "replaced by workflow",
+    "download": "replaced by workflow",
+    "changelog": "replaced by workflow",
+    "readme": "replaced by workflow",
+    "license": "LICENSE"
+}
