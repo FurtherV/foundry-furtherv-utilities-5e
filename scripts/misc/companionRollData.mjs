@@ -9,7 +9,7 @@ export const CompanionRollData = {
             type: String,
         };
 
-        Hooks.once("libWrapper.Ready", () => _registerWrapper());
+        _registerWrapper();
     },
 };
 
